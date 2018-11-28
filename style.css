@@ -1,0 +1,11 @@
+body {
+	background-color: black;
+	margin: 0 auto;
+	text-align: center;
+	color: #ccc;
+}
+
+canvas {
+	margin: 5% auto;
+	border-radius: 50%;
+}
